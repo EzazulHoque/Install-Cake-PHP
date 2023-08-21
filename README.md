@@ -60,7 +60,7 @@ In the editor:
 
 - Then, add your CakePHP project's Webroot path:
 ```plaintext
-DocumentRoot /var/www/my_app_name/Webroot
+DocumentRoot /var/www/my_app_name/webroot
 ```
 > Note: Adjust the path `my_app_name` to match your project folder name.
 

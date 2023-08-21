@@ -7,7 +7,6 @@ Install CakePHP in WSL Ubuntu
 Follow the step-by-step guide below to install CakePHP on your machine:
 
 ## 1. Install Composer 🎼
-```bash
 sudo apt-get install composer
 ```
 

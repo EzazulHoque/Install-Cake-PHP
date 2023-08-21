@@ -78,5 +78,3 @@ sudo service apache2 restart
 Congratulations 🎉! Your CakePHP setup should now be complete. Enjoy building with CakePHP!
 
 ```
-
-This will render a clean and organized `README.md` when viewed on GitHub. Adjust any parts of it as needed for your specific project or environment.

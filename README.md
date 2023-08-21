@@ -76,5 +76,3 @@ sudo service apache2 restart
 ---
 
 Congratulations 🎉! Your CakePHP setup should now be complete. Enjoy building with CakePHP!
-
-```

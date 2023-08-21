@@ -1,8 +1,6 @@
 # Install-Cake-PHP
 Install CakePHP in WSL Ubuntu 
 
-Sure, let's make a readable and aesthetically pleasing `README.md` for CakePHP installation instructions:
-
 ```markdown
 # CakePHP Installation Guide 🍰
 
